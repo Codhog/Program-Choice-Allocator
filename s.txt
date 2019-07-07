@@ -1,0 +1,6 @@
+chenz12,Zi,Chen,Female,11.9,software,mechanical,civil
+harvyp23,Peter,Harvey,Male,6.7,software,civil,engphys
+jordanm45,Mike,Jordan,Male,12,engphys,electrical,chemical
+josteve33,Steve,Jobb,Male,12,mechanical,civil,engphys
+smithd21,David,Smith,Male,10.3,civil,engphys,mechanical
+teresma54,Mary,Teresa,Female,9.5,chemical,civil,engphys
